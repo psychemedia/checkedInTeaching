@@ -2,3 +2,6 @@
 
 #Import the necessary code library
 from ggplot import *
+
+#Preview the diamonds dataset
+diamonds[:3]
